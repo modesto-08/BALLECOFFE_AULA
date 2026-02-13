@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/Layout_BalleCoffe_2025.jpg" alt="Preview do Projeto BalleCoffee" width="40%">
+  <img src="Layout_BalleCoffe_2025.jpg" alt="Preview do Projeto BalleCoffee" width="40%">
 </p>
 
 ## 💻 Sobre o Projeto
